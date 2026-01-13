@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Abyssal Zone",
+  "base_artist": "Nornis",
+  "createdAt": "2026-01-13T05:21:58.614156Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Abyssal Zone",
+      "artist": "Nornis",
+      "has_synced": true,
+      "path": "select/01_Abyssal_Zone_Nornis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Abyssal Zone",
+      "artist": "Nornis",
+      "has_synced": true,
+      "path": "select/02_Abyssal_Zone_Nornis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Abyssal Zone (English Version)",
+      "artist": "Nornis",
+      "has_synced": true,
+      "path": "select/03_Abyssal_Zone_(English_Version)_Nornis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Abyssal Depths",
+      "artist": "The Acacia Strain",
+      "has_synced": true,
+      "path": "select/04_Abyssal_Depths_The_Acacia_Strain.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Abyssal",
+      "artist": "Fleshgod Apocalypse",
+      "has_synced": true,
+      "path": "select/05_Abyssal_Fleshgod_Apocalypse.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Abyssal Mouth",
+      "artist": "Humanity's Last Breath",
+      "has_synced": true,
+      "path": "select/06_Abyssal_Mouth_Humanity's_Last_Breath.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Abyssal Streams",
+      "artist": "Kambrium",
+      "has_synced": false,
+      "path": "select/07_Abyssal_Streams_Kambrium.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "yours forever (w/ abyssal.angel)",
+      "artist": "usedcvnt",
+      "has_synced": true,
+      "path": "select/08_yours_forever_(w__abyssal.angel)_usedcvnt.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "This Abyssal Plain",
+      "artist": "Wake",
+      "has_synced": true,
+      "path": "select/09_This_Abyssal_Plain_Wake.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Abyssal Gates",
+      "artist": "Krisiun",
+      "has_synced": true,
+      "path": "select/10_Abyssal_Gates_Krisiun.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Abyssal Communication",
+      "artist": "Persefone",
+      "has_synced": true,
+      "path": "select/11_Abyssal_Communication_Persefone.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Abyssal Zone",
+      "artist": "Nornis",
+      "has_synced": false,
+      "path": "select/pl_01_Abyssal_Zone_Nornis.txt"
+    }
+  ]
+}
